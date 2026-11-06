@@ -120,8 +120,6 @@ Once the router reboots into **`PEG_M2_B38.2`**:
 
    | Carrier | APN | PDP / IP Type |
    | :--- | :--- | :--- |
-   
-   
    | **Airtel** | `airtelgprs.com` | `IPv4v6` / `IPv4` |
    | **Vi (Vodafone Idea)** | `www` or `portalnmms` | `IPv4v6` / `IPv4` |
    | **BSNL** | `bsnlnet` | `IPv4v6` / `IPv4` |
